@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👨‍💻 Ramiro Manoel
 
-<!--
-**Ramiro-Manoel/Ramiro-Manoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer working professionally with **ABAP OOP** at **SAP**, currently picking up new languages and tools along the way.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working with **ABAP OOP** at **SAP**
+- 🎓 Computer Science student at **Unisinos**
+- 💻 Experienced with **Java** and **Python**
+- 🌱 Currently learning **Go**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+![ABAP](https://img.shields.io/badge/ABAP-427EC4?style=for-the-badge&logo=sap&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramiro-manoel-92476528b)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ramiro__manoel)
